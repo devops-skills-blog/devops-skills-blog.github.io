@@ -1,0 +1,7 @@
+site_name: "Devops Skills Blog"
+
+plugins:
+  - blog:
+      authors_profiles: false
+theme:
+  name: 'material'
