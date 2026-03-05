@@ -1,5 +1,5 @@
 site_name: "Devops Skills Blog"
-docs_dir: "blog"
+# docs_dir: "blog"
 
 plugins:
   - blog:
