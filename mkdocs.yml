@@ -4,6 +4,6 @@ docs_dir: "blog"
 plugins:
   - blog:
       authors_profiles: false
-      blogs_dir: .
+      # blogs_dir: .
 theme:
   name: 'material'
