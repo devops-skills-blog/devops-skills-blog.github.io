@@ -1,7 +1,9 @@
 site_name: "Devops Skills Blog"
+docs_dir: "blog"
 
 plugins:
   - blog:
       authors_profiles: false
+      blogs_dir: .
 theme:
   name: 'material'
