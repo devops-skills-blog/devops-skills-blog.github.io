@@ -1,4 +1,6 @@
 site_name: "Devops Skills Blog"
+site_url: "https://blog.devops-skills.com"
+
 docs_dir: "blog"
 
 plugins:
