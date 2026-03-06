@@ -4,7 +4,9 @@ docs_dir: "docs"
 plugins:
   - blog:
       authors_profiles: false
-      blogs_dir: .
+      blog_dir: .
   
 theme:
   name: 'material'
+  features:
+    - navigation.indexes
