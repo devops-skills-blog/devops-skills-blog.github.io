@@ -1,5 +1,5 @@
 site_name: "Devops Skills Blog"
-docs_dir: "docs"
+# docs_dir: "docs"
 
 plugins:
   - blog:
@@ -8,5 +8,3 @@ plugins:
   
 theme:
   name: 'material'
-  features:
-    - navigation.indexes
